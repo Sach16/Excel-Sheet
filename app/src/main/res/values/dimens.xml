@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="room_status_cell_length">32dp</dimen>
+    <dimen name="room_status_cell_lwidth">56dp</dimen>
+    <dimen name="room_status_cell_width">112dp</dimen>
+    <dimen name="room_status_cell_xwidth">280dp</dimen>
+
+    <dimen name="text_label">13sp</dimen>
+    <dimen name="text_desc">18sp</dimen>
+</resources>
